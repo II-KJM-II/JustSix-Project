@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=d07862&height=120&text=JUSTSIX&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사용자 노래 추천 플랫폼 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 노래 키워드를 선택하면(최소 3개, 최대 5개 선택)</li>운영자가 넣은 노래중 키워드에 맞는 노래를 결과 페이지에 보여줌 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
